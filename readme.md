@@ -1,6 +1,5 @@
 # Real-Time Chat Application
 
-Build a chat app with Laravel, Vue.js and Pusher. Follow the tutorial [https://pusher.com/tutorials/chat-laravel](https://pusher.com/tutorials/chat-laravel)
 
 ## Getting Started
 
